@@ -1,5 +1,5 @@
 # improved_isr
-Improved internal state recovery attack with Suggested Value Method(No.1) enabled by default.
+Improved internal state recovery attack with Suggested Value Method(No.1) enabled by default. Two optional improvements can be enabled using macros: Partial Elimination Method (No.3) and Determine Fix (No.2).
 
 # Requirements:
 <ol>
